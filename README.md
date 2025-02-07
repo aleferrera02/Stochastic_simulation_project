@@ -1,1 +1,1 @@
-# Stochastic_simulation_project
+# StochSimProject
